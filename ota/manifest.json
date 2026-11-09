@@ -1,11 +1,11 @@
 {
   "v": 1,
-  "versionCode": 14,
-  "versionName": "1.1.4",
-  "url": "https://github.com/SBY-TECH/hmsentinel-public-release/releases/download/v14/groundster-14.apk",
-  "sha256": "eab85e6327242d1210e5902c3106f291244621fc4e941d0bd1b84209ec822df9",
+  "versionCode": 13,
+  "versionName": "1.1.3",
+  "url": "https://github.com/SBY-TECH/hmsentinel-public-release/releases/download/v13/groundster-13.apk",
+  "sha256": "46e7d43524948341d7d6643f17142e4d2c752d546fc10e5cc230bae94f18d68f",
   "sizeBytes": 18214303,
   "minSdk": 35,
   "deviceIds": [],
-  "notes": "Version de prueba del canal publico; se retira una vez comprobada la actualizacion."
+  "notes": "Primera actualizacion servida por el canal publico."
 }
