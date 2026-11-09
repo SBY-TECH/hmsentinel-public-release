@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "versionCode": 12,
+  "versionName": "1.1.2",
+  "url": "https://github.com/SBY-TECH/hmsentinel-public-release/releases/download/v12/groundster-12.apk",
+  "sha256": "c7b10c10fd9d26991b2c8be86c44d8ae0371c8c8042a13f9f6709bfe8482b59d",
+  "sizeBytes": 18214303,
+  "minSdk": 35,
+  "deviceIds": [],
+  "notes": "Canal de actualizacion nuevo: repositorio publico, sin token en el equipo."
+}
